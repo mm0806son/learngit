@@ -10,7 +10,7 @@ git remote set-url origin https://<your token>@github.com/<your username>/<your 
 Clone from a repo.
 
 ```shell
-git remote add origin <your repository link>
+git clone <your repository link>
 ```
 
 Always do `git pull` before start to work.
