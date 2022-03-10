@@ -37,7 +37,7 @@ Simply use this from a pc connected on Eduroam. If fail, try to add `.imt` at th
 
 `ssh z20ning@pc-elec-387.priv.enst-bretagne.fr`
 
-If you use VsCode, download the extention `openSSH` and add these lines in the config. As mentioned before, if fail, delete `.imt` to desactivate VPN and try again.
+If you use VsCode, download the extention `remote-SSH` and add these lines in the config. As mentioned before, if fail, delete `.imt` to desactivate VPN and try again.
 
 ```shell
 Host              pc-elec-387.priv.enst-bretagne.fr.imt
