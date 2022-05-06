@@ -13,6 +13,7 @@ Clone from a repo.
 
 ```shell
 git clone <your repository link>
+git clone https://<your username>:<your token>@github.com/<your repository link>
 ```
 
 Always do `git pull` before start to work.
